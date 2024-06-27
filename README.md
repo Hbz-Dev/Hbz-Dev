@@ -1,20 +1,13 @@
 ### Hi there 👋
-kv8zz9uc
 
+Weebs Developer (*≧▽≦)
+18 Yo
+<!--
 https://mega.nz/file/by4VwKKT#8O4nRRzmhQSWUiLHApQgfHYOuVZ-OyIRcrPomKLyK0g
 email colorlib: peyej20099@giratex.com
+kv8zz9uc
 
 
-
-
-$update = mysqli_query($conn, "UPDATE admin SET 
-                    full_name = '" . $nama . "',
-                    username = '" . $user . "',
-                    email = '" . $email . "',
-                    role = '" . $d->role . "',
-                    WHERE admin_id = " . $d->admin_id
-
-<!--
 **Hbz-Dev/Hbz-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
